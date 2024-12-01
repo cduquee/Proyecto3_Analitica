@@ -1,0 +1,83 @@
+periodo,estu_genero,estu_mcpio_reside,fami_cuartoshogar,fami_educacionmadre,fami_educacionpadre,fami_estratovivienda,fami_personashogar,fami_tieneautomovil,fami_tienecomputador,fami_tieneinternet,fami_tienelavadora,punt_global
+20224,M,TUNJA,Dos,Técnica o tecnológica completa,Secundaria (Bachillerato) incompleta,Estrato 1,3 a 4,No,No,No,No,270
+20224,F,TUNJA,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,3 a 4,Si,Si,Si,Si,266
+20224,M,TUNJA,Tres,Educación profesional completa,Primaria incompleta,Estrato 2,3 a 4,No,Si,No,No,269
+20224,F,TUNJA,Tres,Primaria completa,Secundaria (Bachillerato) completa,Estrato 1,5 a 6,No,Si,Si,Si,267
+20224,M,TUNJA,Tres,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,3 a 4,Si,Si,No,Si,265
+20224,M,TUNJA,Tres,Técnica o tecnológica completa,Primaria incompleta,Estrato 2,3 a 4,No,Si,Si,Si,325
+20224,F,TUNJA,Dos,Primaria incompleta,Secundaria (Bachillerato) completa,Estrato 2,5 a 6,No,Si,Si,Si,266
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,5 a 6,No,No,Si,Si,214
+20224,M,TUNJA,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,Si,Si,Si,287
+20224,F,TUNJA,Cuatro,Primaria incompleta,Primaria incompleta,Estrato 2,5 a 6,Si,Si,Si,Si,298
+20224,F,TUNJA,Dos,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,No,No,Si,218
+20224,F,TUNJA,Cuatro,Secundaria (Bachillerato) incompleta,Primaria completa,Estrato 2,5 a 6,Si,Si,Si,Si,274
+20224,F,TUNJA,Cuatro,Técnica o tecnológica completa,Primaria incompleta,Estrato 1,3 a 4,No,Si,Si,Si,259
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,1 a 2,No,No,No,Si,207
+20224,F,TUNJA,Cuatro,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,5 a 6,No,No,No,Si,247
+20224,F,TUNJA,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,5 a 6,No,Si,Si,No,277
+20224,M,TUNJA,Tres,Postgrado,Secundaria (Bachillerato) incompleta,Estrato 4,3 a 4,Si,Si,Si,Si,388
+20224,M,TUNJA,Tres,Primaria completa,Primaria completa,Estrato 2,3 a 4,No,No,Si,Si,298
+20224,M,TUNJA,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,1 a 2,No,Si,No,Si,270
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Primaria incompleta,Estrato 1,7 a 8,No,Si,Si,Si,219
+20224,F,TUNJA,Cuatro,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,3 a 4,Si,Si,Si,Si,267
+20224,F,TUNJA,Dos,Primaria incompleta,Primaria incompleta,Estrato 3,5 a 6,No,No,No,No,199
+20224,F,TUNJA,Tres,Primaria incompleta,Primaria incompleta,Estrato 1,3 a 4,No,Si,No,Si,206
+20224,M,TUNJA,Cinco,Primaria completa,Primaria completa,Estrato 1,7 a 8,No,Si,Si,No,230
+20224,F,TUNJA,Tres,Educación profesional completa,Secundaria (Bachillerato) incompleta,Estrato 1,5 a 6,No,No,Si,Si,230
+20224,F,TUNJA,Tres,Técnica o tecnológica completa,Secundaria (Bachillerato) incompleta,Estrato 2,3 a 4,Si,Si,Si,Si,291
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,5 a 6,No,Si,Si,Si,272
+20224,M,TUNJA,Cuatro,Educación profesional incompleta,Educación profesional incompleta,Estrato 3,3 a 4,Si,Si,Si,Si,314
+20224,F,TUNJA,Tres,Primaria completa,Secundaria (Bachillerato) incompleta,Estrato 1,3 a 4,No,No,Si,Si,262
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) incompleta,No sabe,Estrato 2,3 a 4,No,Si,Si,Si,238
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,3 a 4,No,No,Si,Si,249
+20224,F,TUNJA,Tres,Técnica o tecnológica completa,Primaria incompleta,Estrato 2,3 a 4,No,Si,Si,Si,260
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 3,3 a 4,No,No,No,Si,206
+20224,F,TUNJA,Dos,Primaria completa,Primaria incompleta,Estrato 1,3 a 4,No,No,No,No,201
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,3 a 4,No,Si,No,Si,248
+20224,M,TUNJA,Tres,Técnica o tecnológica completa,Secundaria (Bachillerato) completa,Estrato 4,5 a 6,No,No,Si,Si,199
+20224,M,TUNJA,Cuatro,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,5 a 6,Si,Si,Si,Si,233
+20224,M,TUNJA,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,No,Si,Si,288
+20224,M,TUNJA,Cuatro,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 1,3 a 4,Si,No,No,Si,254
+20224,F,TUNJA,Dos,Primaria completa,Primaria completa,Estrato 1,3 a 4,No,No,No,No,212
+20224,M,TUNJA,Cuatro,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,7 a 8,No,Si,Si,Si,340
+20224,F,TUNJA,Dos,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,3 a 4,No,Si,No,Si,281
+20224,F,TUNJA,Dos,Primaria incompleta,Primaria incompleta,Estrato 2,5 a 6,No,Si,Si,Si,272
+20224,M,TUNJA,Tres,Técnica o tecnológica completa,Secundaria (Bachillerato) incompleta,Estrato 1,3 a 4,No,Si,Si,Si,251
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,No,Si,No,267
+20224,M,TUNJA,Tres,Primaria incompleta,Primaria incompleta,Estrato 1,3 a 4,No,No,Si,No,264
+20224,M,TUNJA,Cuatro,Secundaria (Bachillerato) completa,Primaria completa,Estrato 1,7 a 8,No,No,Si,Si,288
+20224,M,TUNJA,Cinco,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,5 a 6,No,Si,No,No,198
+20224,F,TUNJA,Tres,Primaria incompleta,No sabe,Estrato 1,3 a 4,No,No,Si,Si,215
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,3 a 4,No,Si,No,Si,274
+20224,F,TUNJA,Cinco,Educación profesional completa,Secundaria (Bachillerato) completa,Estrato 3,7 a 8,No,No,Si,No,168
+20224,M,TUNJA,Cinco,Técnica o tecnológica completa,Técnica o tecnológica completa,Estrato 1,9 o más,No,No,Si,Si,241
+20224,F,TUNJA,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 4,1 a 2,No,Si,Si,Si,287
+20224,M,TUNJA,Tres,Primaria incompleta,No sabe,Estrato 3,5 a 6,No,Si,Si,Si,312
+20224,F,TUNJA,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 1,1 a 2,No,Si,Si,Si,269
+20224,M,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Técnica o tecnológica completa,Estrato 1,5 a 6,No,Si,Si,Si,371
+20224,F,TUNJA,Dos,Primaria incompleta,Primaria incompleta,Estrato 1,5 a 6,No,No,Si,Si,307
+20224,M,TUNJA,Dos,Educación profesional completa,Secundaria (Bachillerato) incompleta,Estrato 2,3 a 4,No,No,Si,Si,262
+20224,F,TUNJA,Dos,Primaria incompleta,Técnica o tecnológica incompleta,Estrato 3,3 a 4,No,Si,Si,Si,281
+20224,F,TUNJA,Dos,Técnica o tecnológica completa,Secundaria (Bachillerato) completa,Estrato 1,7 a 8,No,Si,Si,Si,258
+20224,F,TUNJA,Tres,No sabe,No sabe,Estrato 2,3 a 4,No,No,No,No,231
+20224,M,TUNJA,Uno,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,3 a 4,Si,Si,No,Si,287
+20224,M,TUNJA,Tres,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 3,5 a 6,No,No,No,Si,205
+20224,M,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,5 a 6,No,No,Si,Si,266
+20224,F,TUNJA,Seis o mas,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 1,9 o más,No,No,Si,Si,210
+20224,M,TUNJA,Dos,Técnica o tecnológica completa,Primaria completa,Estrato 1,5 a 6,Si,No,No,Si,293
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,Si,Si,No,293
+20224,M,TUNJA,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,5 a 6,No,No,Si,Si,311
+20224,F,TUNJA,Tres,Educación profesional completa,No sabe,Estrato 3,3 a 4,No,Si,Si,No,184
+20224,M,TUNJA,Dos,Primaria incompleta,Secundaria (Bachillerato) completa,Estrato 3,3 a 4,No,No,Si,No,311
+20224,M,TUNJA,Tres,Técnica o tecnológica completa,Primaria completa,Estrato 2,3 a 4,No,Si,Si,Si,297
+20224,F,TUNJA,Tres,Secundaria (Bachillerato) completa,Primaria completa,Estrato 1,5 a 6,No,No,Si,No,211
+20224,M,TUNJA,Dos,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 1,3 a 4,No,No,No,No,220
+20224,F,TUNJA,Cinco,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,7 a 8,Si,Si,No,Si,390
+20224,F,TUNJA,Tres,No sabe,No sabe,Estrato 1,3 a 4,No,Si,Si,No,197
+20224,F,TUNJA,Dos,Secundaria (Bachillerato) incompleta,Primaria incompleta,Estrato 1,3 a 4,No,No,No,Si,174
+20224,M,TUNJA,Dos,Técnica o tecnológica incompleta,No sabe,Estrato 3,3 a 4,No,Si,Si,Si,260
+20224,F,TUNJA,Cuatro,Técnica o tecnológica completa,Técnica o tecnológica completa,Estrato 3,7 a 8,No,Si,Si,Si,278
+20224,F,TUNJA,Tres,Primaria completa,Primaria incompleta,Estrato 2,5 a 6,No,No,No,Si,261
+20224,F,TUNJA,Tres,Primaria incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,3 a 4,No,Si,Si,Si,270
+20224,F,TUNJA,Tres,Ninguno,Primaria completa,Estrato 2,5 a 6,No,Si,Si,Si,273
+20224,F,TUNJA,Cuatro,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,7 a 8,Si,Si,Si,Si,269
